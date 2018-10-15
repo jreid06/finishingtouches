@@ -1,0 +1,12 @@
+@import "general";
+@import "reset";
+@import "loader";
+
+body, html{
+	// overflow: hidden;
+	font-family: 'Quicksand', sans-serif !important;
+	height: 100%;
+	width: 100%;
+    min-width: 320px;
+	background-color: #fff;
+}
