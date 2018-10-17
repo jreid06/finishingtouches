@@ -45,7 +45,7 @@ class Directus extends Projectfunctions
         } else {
             return [
                 "status"=> true,
-                "result"=> $database_results[0],
+                "result"=> $database_results,
             ];
         }
     }

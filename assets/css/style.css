@@ -30,7 +30,13 @@
 /*---------------------
   7. Login area
 -------------------------*/
+.grid-item{
+    color: #fff;
+}
 
+.grid-item a{
+    color: #fff !important;
+}
 .waraper {
     padding: 0 100px;
 }
